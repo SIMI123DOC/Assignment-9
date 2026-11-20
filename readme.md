@@ -26,7 +26,7 @@ This project demonstrates important MySQL concepts such as Views, Stored Procedu
 | Order_Items | Stores products and quantities associated with orders. |
 | Follow_ups | Stores follow-up records for delayed pending orders. |
 
-## Project Structure
+## Assignment Structure
 
 ```text
 Retail_Order_Fulfilment/
